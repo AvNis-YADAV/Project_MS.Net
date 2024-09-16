@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/W49iuNtbU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Study Materials\\CDAC\\8) DotNet\\my-projet\\Bekery\\Bakery.Models\\Bakery.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

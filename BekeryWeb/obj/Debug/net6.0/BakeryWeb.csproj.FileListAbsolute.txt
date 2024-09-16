@@ -1,0 +1,8 @@
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.csproj.AssemblyReference.cache
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.AssemblyInfoInputs.cache
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.AssemblyInfo.cs
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.csproj.CoreCompileInputs.cache
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.RazorAssemblyInfo.cache
+D:\8) DotNet\my-projet\Bekery\BekeryWeb\obj\Debug\net6.0\BakeryWeb.RazorAssemblyInfo.cs
